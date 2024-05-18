@@ -1,4 +1,4 @@
-# repositorio de recordatorio
+# repositorio de recordatorio!!!!!
 wenas
 que tal como estamos en fase de pruebas =)
 recuerda git temote -v para ver si tenemos el remoto sino
